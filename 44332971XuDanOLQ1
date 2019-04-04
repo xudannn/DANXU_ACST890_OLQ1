@@ -53,7 +53,7 @@ ls
 sort tutes.txt | uniq
 
 # Question 3
-#(a) egrep '^[^ ]+ [^ ]+ [^ ]+$' file_a.txt
-#(b) egrep -e '\-[0-9]+'file_b.txt
-#(c) egrep '[0-9]+\.[0-9]+'file_c.txt
-#(d) egrep 'hydrogenase' file_d.txt | egrep -v 'dehydrogenase'
+(a) egrep '^[^ ]+ [^ ]+ [^ ]+$' file_a.txt
+(b) egrep -e '\-[0-9]+'file_b.txt
+(c) egrep '[0-9]+\.[0-9]+'file_c.txt
+(d) egrep 'hydrogenase' file_d.txt | egrep -v 'dehydrogenase'
